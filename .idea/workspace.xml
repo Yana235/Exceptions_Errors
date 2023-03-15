@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5373dfa-8bd1-4680-9083-8f4a1b40dbc8" name="Changes" comment="">
+    <list default="true" id="a5373dfa-8bd1-4680-9083-8f4a1b40dbc8" name="Changes" comment="Commit Excepcion_errors">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quijote2.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/CopyBites/CopyData.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/CopyBites/CopyObject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/CopyBites/Ejercicio1.java" afterDir="false" />
@@ -14,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/Practicas/quijote.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Practicas/yana.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/listaGatos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yana_salida.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CopyBites/CopiBytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CopyBites/CopiBytes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CopyBites/CopyCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CopyBites/CopyCars.java" afterDir="false" />
@@ -146,6 +149,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678218582423</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit Excepcion_errors">
+      <created>1678902012371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678902012371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Excepcion_errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Excepcion_errors" />
   </component>
 </project>
