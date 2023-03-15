@@ -16,7 +16,6 @@ public class CopiBytes {
             while (c != -1) {
                 fo.write(c);
                 c = fi.read();
-
             }
             /*
         }finally{
@@ -28,7 +27,6 @@ public class CopiBytes {
             }
 
         }
-
              */
 
         }

@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class CopyCars {
     public static void main(String[] args) throws IOException {
-        //Especificos para textos
+        //Especificos para textos pero no para fotos
         try(FileReader fr= new FileReader("xanadu.txt");
             FileWriter fw= new FileWriter("salida.txt")){
             int c;
