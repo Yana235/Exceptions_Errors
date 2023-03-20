@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5373dfa-8bd1-4680-9083-8f4a1b40dbc8" name="Changes" comment="Commit Excepcion_errors">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quijote2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CopyBites/CopyData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CopyBites/CopyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CopyBites/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practicas/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practicas/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practicas/InvalidDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practicas/quijote.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practicas/yana.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/listaGatos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yana_salida.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alumnos_notas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numeros.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Exercices/Maximo_minimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Exercices/Nombre_Apellido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Exercices/Notas_alumnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_Exercices/ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usa_apellidos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usa_nombres.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CopyBites/CopiBytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CopyBites/CopiBytes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CopyBites/CopyCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CopyBites/CopyCars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CopyBites/CopyLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CopyBites/CopyLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Gato.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,23 +46,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/imaio/IdeaProjects/ java 2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/imaio/IdeaProjects/Exceptions_Errors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/Practicas" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/.idea" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/src/main/java/Practicas" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise2">
+  <component name="RunManager" selected="Application.Notas_alumnos">
     <configuration name="CopiBytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CopyBites.CopiBytes" />
       <module name="Exceptions_Errors" />
@@ -80,26 +78,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CopyCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CopyBites.CopyCars" />
-      <module name="Exceptions_Errors" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CopyBites.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception2" />
-      <module name="Exceptions_Errors" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,13 +108,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Notas_alumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_Exercices.Notas_alumnos" />
+      <module name="Exceptions_Errors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream_Exercices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_Exercices.ejemplo" />
+      <module name="Exceptions_Errors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream_Exercices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Notas_alumnos" />
+        <item itemvalue="Application.ejemplo" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.CopiBytes" />
-        <item itemvalue="Application.CopyCars" />
-        <item itemvalue="Application.Exception2" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678902012371</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Excepcion_errors">
+      <created>1678902016413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678902016413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
