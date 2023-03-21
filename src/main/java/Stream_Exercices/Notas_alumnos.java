@@ -4,10 +4,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 
 public class Notas_alumnos implements Serializable {
 
@@ -30,22 +26,29 @@ public class Notas_alumnos implements Serializable {
 
             while ((linea = o.readLine()) != null) {
                 alumno = linea.split(" ");
-                //nota = linea.split(" ");
+         //       nota = linea.split(" ");
 
                 int notas;
 
 
-            //    int line = Integer.parseInt(notaMedia[4]);
+               //int alumnos = Integer.parseInt(alumno[6]);
                 for(int i=0;i<alumno.length;i++){
                     System.out.println(alumno[i]);
                  //   if(notas[2]>0 && notas[2]<2){
 
                 //        System.out.println(notas);
                     }
-                    for(int j=2;j<alumno.length;j++){
-                        double notaMedia=Double.parseDouble(alumno[j]);
-                        System.out.println(notaMedia);
+                   for(int j=2;j<alumno.length;j++){
+                     //   int notaMedias=Integer.parseInt(alumno[j]);
+                        double notaMedia=Double.parseDouble(alumno [j]);
+                        notaMedia+=notaMedia;
+                        notaMedia=notaMedia% alumno.length;
+                        //alumno[j]=String.valueOf(notaMedia);
+
+                       System.out.println(notaMedia);
+
                 }
+
 
                 }
             //    System.out.println(alumno[2]+notaMedia[2]);
